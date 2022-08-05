@@ -1,0 +1,14 @@
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\bin\Debug\netcoreapp3.1\enboyuk.exe
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\bin\Debug\netcoreapp3.1\enboyuk.deps.json
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\bin\Debug\netcoreapp3.1\enboyuk.runtimeconfig.json
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\bin\Debug\netcoreapp3.1\enboyuk.runtimeconfig.dev.json
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\bin\Debug\netcoreapp3.1\enboyuk.dll
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\bin\Debug\netcoreapp3.1\enboyuk.pdb
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.csproj.AssemblyReference.cache
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.AssemblyInfoInputs.cache
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.AssemblyInfo.cs
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.csproj.CoreCompileInputs.cache
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.dll
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.pdb
+C:\Users\asgaryas\Desktop\project4\textchecker\enboyuk\enboyuk\obj\Debug\netcoreapp3.1\enboyuk.genruntimeconfig.cache
